@@ -23,5 +23,10 @@
       "eva\\helpers\\"  : "src",
       "eva\\exception\\": "src/Exception"
     }
+  },
+  "extra"             : {
+    "branch-alias" : {
+      "dev-master" : "1.x.x"
+    }
   }
 }
