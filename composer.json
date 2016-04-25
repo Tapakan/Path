@@ -1,7 +1,7 @@
 {
   "name"       : "tapakan/path",
   "description": "Path helper",
-  "version"    : "1.0.1",
+  "version"    : "1.0.0",
   "type"       : "library",
   "license"    : "MIT",
   "authors"    : [
