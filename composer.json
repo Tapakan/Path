@@ -21,7 +21,7 @@
   "autoload"   : {
     "psr-4": {
       "Tapakan\\Path\\"         : "src",
-      "Tapakan\\Path\\Exception": "src/Exception"
+      "Tapakan\\Path\\Exception\\": "src/Exception"
     }
   },
   "extra"             : {
