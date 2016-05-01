@@ -1,21 +1,21 @@
 <?php
 /**
  * Path helper class.
- * @package     eva\helpers
- * @version     1.0
+ * @package     Tapakan\Path
+ * @version     1.0.1
  * @license     http://mit-license.org/
  * @author      Tapakan https://github.com/Tapakan
  * @coder       Alexander Oganov <t_tapak@yahoo.com>
  */
 
-namespace eva\helpers;
+namespace Tapakan\Path;
 
-use eva\exception\PathException;
 use InvalidArgumentException;
+use Tapakan\Path\Exception\PathException;
 
 /**
  * Class Path
- * @package eva\helpers
+ * @package Tapakan\Path
  */
 class Path
 {

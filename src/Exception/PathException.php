@@ -1,18 +1,17 @@
 <?php
 /**
  * PathException class.
- * @package     eva\exception
- * @version     1.0
+ * @package     Tapakan\Path\Exception
+ * @version     1.0.1
  * @license     http://mit-license.org/
  * @author      Tapakan https://github.com/Tapakan
  * @coder       Alexander Oganov <t_tapak@yahoo.com>
  */
 
-namespace eva\exception;
+namespace Tapakan\Path\Exception;
 
 use Exception;
 
 class PathException extends Exception
 {
-    
 }
